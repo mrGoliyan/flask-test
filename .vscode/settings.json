@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d6462d49-b66b-4c28-ade2-6b22f17583b1/resourceGroups/Chatopedia/providers/Microsoft.Web/sites/Chatopedia",
+    "appService.deploySubpath": "templates"
+}
